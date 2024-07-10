@@ -20,4 +20,8 @@
     </tbody>
 </table>
 
+## WEB Link
+http://sphagetti-front.s3-website.ap-northeast-2.amazonaws.com
+
 ## AWS CICD Pipeline Architecture
+<img width="771" alt="아키텍처" src="https://github.com/GBSW-Spaghetti-Coding-Club/.github/assets/127307160/af71bbd7-bd8f-4fa2-962e-b55b612e00a1">
